@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/tazhieva2222/dzjava/issues/1#issue-946570315 
-* https://github.com/tazhieva2222/dzjava/issues/2#issue-946792185 
-* https://github.com/tazhieva2222/dzjava/issues/3#issue-946801107
+* [Номера карт "Diners Club - International" - не валидны] https://github.com/tazhieva2222/dzjava/issues/1#issue-946570315 
+* [19ти значный номер карты JCB не валидна] https://github.com/tazhieva2222/dzjava/issues/2#issue-946792185 
+* [Номера карт "American Express (AMEX)" - не валидны] https://github.com/tazhieva2222/dzjava/issues/3#issue-946801107
 
 ## Описание процесса тестирования
 
